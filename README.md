@@ -7,12 +7,13 @@ My positive attitude and willingness to learn has made me more curious about my 
 Overall, I am a talented developer 😌 who is dedicated to his craft and passionate about making a positive impact in my field. I am always looking for new opportunities to learn and grow, and I am excited to see what the future holds.
 
 ### Skills 
-![bootstrap-logo](https://github.com/pHanToMcaNCoDE/phantomcancode/assets/113244998/a584bd7c-93b4-4b21-9248-10e0c91c0583)
-![javascript-logo](https://github.com/pHanToMcaNCoDE/phantomcancode/assets/113244998/a830dc64-3828-4011-9b72-ac1e21ff3281)
-![laravel-logo-1](https://github.com/pHanToMcaNCoDE/phantomcancode/assets/113244998/7843bbf1-71f3-498f-9d37-0a4f27c6c0eb)
-![node-sass-logo](https://github.com/pHanToMcaNCoDE/phantomcancode/assets/113244998/ad999447-cb41-4590-9f39-3972ca4e1ef9)
-![php-logo](https://github.com/pHanToMcaNCoDE/phantomcancode/assets/113244998/6bd6deff-0ff0-4fa3-820c-5c493ba36ef7)
-![react-logo](https://github.com/pHanToMcaNCoDE/phantomcancode/assets/113244998/10bc8744-bbcd-4428-bfe9-44788efb1477)
+![bootstrap-logo](https://github.com/pHanToMcaNCoDE/phantomcancode/assets/113244998/a2529f47-8a14-4b37-a8de-bca3290e73a1)
+![javascript-logo](https://github.com/pHanToMcaNCoDE/phantomcancode/assets/113244998/915bc195-587a-4166-9aed-2bd04641f6db)
+![node-sass-logo](https://github.com/pHanToMcaNCoDE/phantomcancode/assets/113244998/19dd4f4a-c3b8-470e-8579-7fda835fdd17)
+![php-logo](https://github.com/pHanToMcaNCoDE/phantomcancode/assets/113244998/e05c0c7d-c302-4bbf-bfa1-db2c4d59b953)
+![react-logo](https://github.com/pHanToMcaNCoDE/phantomcancode/assets/113244998/6c746524-7d28-4a41-8116-f8ff417fdd94)
+![laravel-logo-vector-1](https://github.com/pHanToMcaNCoDE/phantomcancode/assets/113244998/012d8644-897a-4c11-84bb-f2de44692cd0)
+
 
 
 
