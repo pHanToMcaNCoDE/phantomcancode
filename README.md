@@ -12,7 +12,8 @@ Overall, I am a talented developer 😌 who is dedicated to his craft and passio
 ![node-sass-logo](https://github.com/pHanToMcaNCoDE/phantomcancode/assets/113244998/19dd4f4a-c3b8-470e-8579-7fda835fdd17)
 ![php-logo](https://github.com/pHanToMcaNCoDE/phantomcancode/assets/113244998/e05c0c7d-c302-4bbf-bfa1-db2c4d59b953)
 ![react-logo](https://github.com/pHanToMcaNCoDE/phantomcancode/assets/113244998/6c746524-7d28-4a41-8116-f8ff417fdd94)
-![pngwing com](https://github.com/pHanToMcaNCoDE/phantomcancode/assets/113244998/1315fa51-59a7-4d9f-b9cf-ead74a38610b)
+![pngwing com](https://github.com/pHanToMcaNCoDE/phantomcancode/assets/113244998/4398376d-5217-4df3-8388-b958f4b6b424)
+
 
 
 
