@@ -1,56 +1,59 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<div align="center">
+  <a href="https://www.linkedin.com/in/victory-odumeh-421761223/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/kachicodes1" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  </a>
+</div>
 
 ###
 
-<p align="left"></p>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=phantomcancode.phantomcancode&"  />
+</div>
 
 ###
 
-<h2 align="left"></h2>
+<h1 align="center">Hey there 👋</h1>
 
 ###
 
-<p align="left">Greetings!<br><br>I'm Victory Odumeh, and I'm excited to connect with you here. Despite my relatively short tenure of 8 months in the industry, I bring a wealth of passion, enthusiasm, and a hunger for growth to every project I undertake.<br><br>My journey began with a solid foundation in HTML, CSS, and JavaScript, and since then, I've rapidly expanded my skill set to include cutting-edge technologies like ReactJS, TailwindCSS, Bootstrap, and NextJS.<br><br>But more than just a list of skills, I'm committed to delivering results that surpass your expectations. Whether it's crafting pixel-perfect layouts, optimizing for performance, or diving into the latest front-end frameworks, I'm here to bring your vision to life.<br><br>What sets me apart?<br><br>🚀 Rapid Learning: I thrive on challenges and embrace every opportunity to expand my knowledge and skills. <br>📆 Timely Delivery: Your project timeline is my priority, and I'm dedicated to meeting deadlines with precision. <br>🤝 Clear Communication: I believe in transparency and collaboration, ensuring you're informed and involved every step of the way.  <br>⚖️ Work-Life Balance: I understand the importance of maintaining a healthy balance between work and personal life, ensuring that I bring my best self to every project.  <br>🤝 Collaborative Mindset: I approach every project with a collaborative mindset, valuing your input and feedback to achieve the best possible outcomes.  <br><br>While I may be at the beginning of my journey, I'm eager to prove myself and establish long-lasting partnerships with clients like you. Let's embark on this journey together and create something remarkable!<br><br>Warm regards,  <br>Victory Odumeh<br><br>✅  8 Months of Dedicated Experience.<br><br>🕰  Availability: Flexible hours, dedicated to your project needs.</p>
+<h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
-<h2 align="left">I code with</h2>
+<p align="left">Greetings!<br><br>I'm Victory Odumeh, and I'm thrilled to connect with you here. Despite my relatively brief tenure of 8 months in the industry, I bring a fervent drive, boundless enthusiasm, and a relentless pursuit of growth to every endeavor.<br><br>My journey commenced with a robust foundation in fundamental web technologies such as HTML, CSS, and JavaScript. Since then, I've embarked on a rapid expansion of my skill set, immersing myself in cutting-edge technologies including:<br><br>✅ ReactJS<br>✅ TailwindCSS<br>✅ Bootstrap<br>✅ NextJS<br><br>Yet, beyond a mere enumeration of skills, I am steadfastly committed to delivering outcomes that transcend expectations. Whether it entails crafting meticulously polished layouts, fine-tuning for optimal performance, or delving into the latest front-end frameworks, I am resolute in bringing your vision to fruition.<br><br>What sets me apart?<br><br>🚀 Rapid Learning: I thrive on challenges, seizing each opportunity to augment my knowledge and proficiency.<br><br>📆 Timely Delivery: Your project timeline assumes paramount importance to me, and I am unwaveringly dedicated to meeting deadlines with exacting precision.<br><br>🤝 Clear Communication: Transparency and collaboration are cornerstones of my ethos, ensuring that you remain informed and engaged at every juncture.<br><br>⚖️ Work-Life Balance: I recognize the significance of maintaining equilibrium between professional commitments and personal well-being, ensuring that I bring my utmost to every project.<br><br>🤝 Collaborative Mindset: Every project is approached with a collaborative spirit, valuing your insights and feedback to yield the finest possible outcomes.<br><br>While I may be in the nascent stage of my journey, I am fervently eager to demonstrate my capabilities and forge enduring partnerships with clients like yourself. Let's embark on this journey together and fashion something truly extraordinary!<br><br>Warm regards,  <br>Victory Odumeh<br><br>✅  8 Months of Dedicated Experience.<br><br>🕰  Availability: Flexible hours, devoted to your project exigencies.</p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
 </div>
 
 ###
 
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=phantomcancode&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=phantomcancode&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=phantomcancode&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/phantomcancode/count.svg?"  />
 </div>
 
 ###
