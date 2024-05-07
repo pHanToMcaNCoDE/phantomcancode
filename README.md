@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **any project**
 
-- 🤝 I’m looking for help with **any project**
+- 🤝 I’m looking for help with **nothing**
 
 - 👨‍💻 All of my projects are available at [https://victory-k-odumeh.vercel.app/](https://victory-k-odumeh.vercel.app/)
 
