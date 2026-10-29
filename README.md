@@ -1,6 +1,6 @@
 # Hi, I'm Victory! 👋
 
-### Data & Software Engineer | Specialised in Scalable Sports Performance Analytics
+### Computer Science Graduate | Software Troubleshooting, SQL, Python & Web Development
 Computer Science graduate (BSc) with an MSc in Data Science & Analytics from MTU, Cork.
 
 * ⚽ **Skills**: Python, SQL, JavaScript (React), Git
