@@ -8,4 +8,4 @@ Computer Science graduate (BSc) with an MSc in Data Science & Analytics from MTU
 * 💼 **Projects**:
   * [EPL player market value prediction pipeline](https://github.com/pHanToMcaNCoDE/predicting-epl-football-palyer-market-value) ([live demo](https://epl-player-valuation-prediction.streamlit.app/))
   * [Interactive NASA meteorite dashboard](https://github.com/pHanToMcaNCoDE/Meteorite-Landings-Interactive-Data-Visualisation)
-* 📱 **Contact**: [LinkedIn](https://www.linkedin.com/in/victorykachidere-odumeh-421761223)
+* 📱 **Contact**: [LinkedIn](https://www.linkedin.com/in/victoryodumeh)
